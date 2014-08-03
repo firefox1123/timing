@@ -1,0 +1,9 @@
+F:\PRACTICE_FILES\C#\定时提醒\定时提醒\bin\Debug\定时提醒.exe.config
+F:\PRACTICE_FILES\C#\定时提醒\定时提醒\bin\Debug\定时提醒.exe
+F:\PRACTICE_FILES\C#\定时提醒\定时提醒\bin\Debug\定时提醒.pdb
+F:\PRACTICE_FILES\C#\定时提醒\定时提醒\obj\Debug\定时提醒.csprojResolveAssemblyReference.cache
+F:\PRACTICE_FILES\C#\定时提醒\定时提醒\obj\Debug\定时提醒.Main_Form.resources
+F:\PRACTICE_FILES\C#\定时提醒\定时提醒\obj\Debug\定时提醒.Properties.Resources.resources
+F:\PRACTICE_FILES\C#\定时提醒\定时提醒\obj\Debug\定时提醒.csproj.GenerateResource.Cache
+F:\PRACTICE_FILES\C#\定时提醒\定时提醒\obj\Debug\定时提醒.exe
+F:\PRACTICE_FILES\C#\定时提醒\定时提醒\obj\Debug\定时提醒.pdb
